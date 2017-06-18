@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.links{
+height:3%;
+
+bottom:0;
+width:100%;
+margin-bottom:0px;
+}
+
+.links ul{
+background-color:#463674;
+list-style-type:none;
+position:absolute;
+height:30px;
+bottom:0px;
+margin-bottom:0px;
+width:100%;
+left:0px;
+
+}
+
+.links li{
+float:left;
+text-decoration:none;
+font-size:18px;
+
+}
+/*paragraph*/
+.links li a{
+color:white;
+text-decoration:none;
+margin-left:20px;
+font-size:20px;
+padding-bottom:1%;
+
+}
+.links li a:hover{
+background-color:rgba(60,19,116,0.7);
+}
